@@ -1,4 +1,4 @@
-https://dev.azure.com/vapasula/Space%20Game%20-%20web%20-%20pipeline/_apis/build/status/vcherukuri.mslearn-tailspin-spacegame-web%20(1)?branchName=master
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
